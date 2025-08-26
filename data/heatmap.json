@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-26T10:53:50.126Z",
+  "updatedAt": "2025-08-26T10:54:09.273Z",
   "win_rate_matrix": {
     "Claude 3.7 Sonnet": {
       "Claude Opus 4": 0.3333333333333333,
@@ -1321,7 +1321,7 @@
       "DeepSeek V3.1 DS": 4,
       "Claude Sonnet 4": 3,
       "Doubao 1.6": 6,
-      "Qwen 235B A22B Instruct 2507": 6,
+      "Qwen 235B A22B Instruct 2507": 7,
       "Gemini 2.5 Pro Max": 2,
       "Claude Opus 4": 2,
       "Claude Opus 4.1": 1
@@ -1486,7 +1486,7 @@
       "Gemini 2.5 Flash Lite": 5,
       "Doubao 1.6": 3,
       "GPT 5 Chat": 3,
-      "Grok 3": 6,
+      "Grok 3": 7,
       "Llama 4 Maverick": 1,
       "DeepSeek R1 0528": 2,
       "Ernie 4.5 Turbo 128k Preview": 2,
