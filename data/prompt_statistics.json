@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-26T09:56:45.063Z",
+  "updatedAt": "2025-08-26T09:59:07.730Z",
   "prompt_statistics": [
     {
       "prompt": "你需要按以下要求写一段独立同人文段：\n**剧情：**《幸运星》中的泉此方和柊镜一同逛漫展\n\n**写作风格指导：**\n-   对白常常省略说话人，角色台词可能独立成段。\n-   模仿日本轻小说作家“暁 なつめ”文风。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
@@ -1998,6 +1998,43 @@
       }
     },
     {
+      "prompt": "你是一位性格活泼、充满正义感的校园记者。你正在调查一起关于学校食堂食品安全的事件。然而，你的调查遭到了学校领导的阻挠。\n\n**情节目标：** 在学校领导的阻挠下，成功揭露真相，并发表一篇引起全校关注的报道。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "校园",
+      "total_battles": 8,
+      "model_battle_counts": {
+        "GPT Oss 120B": 1,
+        "Grok 4": 1,
+        "Gemini 2.5 Pro": 1,
+        "Doubao 1.6": 1,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "GPT 5 Chat": 1,
+        "DeepSeek V3.1 Volcengine": 3,
+        "DeepSeek V3.1 DS": 1,
+        "DeepSeek V3.1 Thinking Volcengine": 1,
+        "GPT 4o Latest": 1,
+        "Claude Sonnet 4": 1,
+        "Anon": 1,
+        "Claude 3.7 Sonnet": 1,
+        "Kimi K2": 1
+      },
+      "model_win_rates": {
+        "GPT Oss 120B": 0,
+        "Grok 4": 1,
+        "Gemini 2.5 Pro": 0,
+        "Doubao 1.6": 1,
+        "Qwen 235B A22B Instruct 2507": 0,
+        "GPT 5 Chat": 1,
+        "DeepSeek V3.1 Volcengine": 0.6666666666666666,
+        "DeepSeek V3.1 DS": 0,
+        "DeepSeek V3.1 Thinking Volcengine": 1,
+        "GPT 4o Latest": 0,
+        "Claude Sonnet 4": 1,
+        "Anon": 0,
+        "Claude 3.7 Sonnet": 0,
+        "Kimi K2": 1
+      }
+    },
+    {
       "prompt": "你是一位才华横溢、性格清冷的宫廷画师，正为即将和亲的公主绘制肖像。公主因不愿和亲而郁郁寡欢，在你的画室里向你倾诉心事。\n\n**情节目标：** 在绘制肖像的过程中，用你的画作和言语安慰公主，让她重拾对生活的希望。\n\n**写作要求：** 采用细腻、婉约的文风，突出人物内心世界和情感的变化。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "古风",
       "total_battles": 8,
@@ -2305,41 +2342,6 @@
         "Doubao 1.6": 0,
         "GPT 4.1": 1,
         "Qwen 235B A22B Instruct 2507": 1
-      }
-    },
-    {
-      "prompt": "你是一位性格活泼、充满正义感的校园记者。你正在调查一起关于学校食堂食品安全的事件。然而，你的调查遭到了学校领导的阻挠。\n\n**情节目标：** 在学校领导的阻挠下，成功揭露真相，并发表一篇引起全校关注的报道。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "校园",
-      "total_battles": 7,
-      "model_battle_counts": {
-        "GPT Oss 120B": 1,
-        "Grok 4": 1,
-        "Gemini 2.5 Pro": 1,
-        "Doubao 1.6": 1,
-        "Qwen 235B A22B Instruct 2507": 1,
-        "GPT 5 Chat": 1,
-        "DeepSeek V3.1 Volcengine": 2,
-        "DeepSeek V3.1 DS": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 1,
-        "GPT 4o Latest": 1,
-        "Claude Sonnet 4": 1,
-        "Anon": 1,
-        "Claude 3.7 Sonnet": 1
-      },
-      "model_win_rates": {
-        "GPT Oss 120B": 0,
-        "Grok 4": 1,
-        "Gemini 2.5 Pro": 0,
-        "Doubao 1.6": 1,
-        "Qwen 235B A22B Instruct 2507": 0,
-        "GPT 5 Chat": 1,
-        "DeepSeek V3.1 Volcengine": 1,
-        "DeepSeek V3.1 DS": 0,
-        "DeepSeek V3.1 Thinking Volcengine": 1,
-        "GPT 4o Latest": 0,
-        "Claude Sonnet 4": 1,
-        "Anon": 0,
-        "Claude 3.7 Sonnet": 0
       }
     },
     {
