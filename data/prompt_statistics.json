@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-26T17:09:14.902Z",
+  "updatedAt": "2025-08-26T17:14:13.442Z",
   "prompt_statistics": [
     {
       "prompt": "**根据以下要求创作小说**\n**场景: **雨夜，豪宅内，光线昏暗。\n**人物: **千金小姐和她的富豪父亲\n**情节: **富家千金和镇上的花匠的儿子相爱，富豪父亲极力反对，将她软禁在家。雨夜，千金准备偷偷溜出豪宅，和爱人私奔，即将推门离开时，被父亲发现。\n**创作要求: **以对话为主体，创作女儿与父亲的语言交锋，体现双方的立场、诉求、矛盾。台词精炼、充满张力。\n**以这段话做开场: **就在她的手刚刚碰到大门，身后响起了那道熟悉而低沉的声音，“想干什么去？”\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
@@ -2422,6 +2422,51 @@
       }
     },
     {
+      "prompt": "**作品：** 吹响吧！上低音号\n**角色：** 黄前久美子，高坂丽奈\n**情节目标：** 全国大赛前夕，久美子偶然发现丽奈似乎正因个人原因而状态失常。她必须解开丽奈的心结，帮助这位追求“特别”的伙伴找回最佳的演奏状态。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "同人",
+      "total_battles": 14,
+      "model_battle_counts": {
+        "DeepSeek V3.1 Thinking Volcengine": 4,
+        "GPT 4o Latest": 2,
+        "Claude Sonnet 4": 2,
+        "Kimi K2": 1,
+        "Anon": 1,
+        "Grok 3": 1,
+        "DeepSeek V3.1 DS": 4,
+        "GLM 4.5": 1,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "DeepSeek R1 0528": 1,
+        "Ernie 4.5 Turbo 128k Preview": 1,
+        "Doubao 1.6": 2,
+        "GPT 4.1": 1,
+        "Claude Opus 4": 2,
+        "Claude 3.7 Sonnet": 1,
+        "Gemini 2.5 Pro Max": 1,
+        "Gemini 2.5 Flash": 1,
+        "DeepSeek V3.1 Volcengine": 1
+      },
+      "model_win_rates": {
+        "DeepSeek V3.1 Thinking Volcengine": 0.5,
+        "GPT 4o Latest": 1,
+        "Claude Sonnet 4": 1,
+        "Kimi K2": 0,
+        "Anon": 0,
+        "Grok 3": 1,
+        "DeepSeek V3.1 DS": 0.5,
+        "GLM 4.5": 0,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "DeepSeek R1 0528": 0,
+        "Ernie 4.5 Turbo 128k Preview": 1,
+        "Doubao 1.6": 0,
+        "GPT 4.1": 0,
+        "Claude Opus 4": 0.5,
+        "Claude 3.7 Sonnet": 0,
+        "Gemini 2.5 Pro Max": 1,
+        "Gemini 2.5 Flash": 0,
+        "DeepSeek V3.1 Volcengine": 1
+      }
+    },
+    {
       "prompt": "**作品：** 孤独摇滚\n**角色：** 后藤一里, 伊地知虹夏, 山田凉, 喜多郁代\n**情节目标：** 在一场重要的Live演出中，后藤一里的吉他突然断了一根弦。在全场观众的注视和乐队成员的即兴配合下，她必须克服恐慌，利用有限的五根弦完成一段精彩的即兴独奏，挽救这场演出。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "同人",
       "total_battles": 14,
@@ -2731,47 +2776,6 @@
       }
     },
     {
-      "prompt": "**作品：** 吹响吧！上低音号\n**角色：** 黄前久美子，高坂丽奈\n**情节目标：** 全国大赛前夕，久美子偶然发现丽奈似乎正因个人原因而状态失常。她必须解开丽奈的心结，帮助这位追求“特别”的伙伴找回最佳的演奏状态。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "同人",
-      "total_battles": 13,
-      "model_battle_counts": {
-        "DeepSeek V3.1 Thinking Volcengine": 4,
-        "GPT 4o Latest": 2,
-        "Claude Sonnet 4": 2,
-        "Kimi K2": 1,
-        "Anon": 1,
-        "Grok 3": 1,
-        "DeepSeek V3.1 DS": 4,
-        "GLM 4.5": 1,
-        "Qwen 235B A22B Instruct 2507": 1,
-        "DeepSeek R1 0528": 1,
-        "Ernie 4.5 Turbo 128k Preview": 1,
-        "Doubao 1.6": 2,
-        "GPT 4.1": 1,
-        "Claude Opus 4": 2,
-        "Claude 3.7 Sonnet": 1,
-        "Gemini 2.5 Pro Max": 1
-      },
-      "model_win_rates": {
-        "DeepSeek V3.1 Thinking Volcengine": 0.5,
-        "GPT 4o Latest": 1,
-        "Claude Sonnet 4": 1,
-        "Kimi K2": 0,
-        "Anon": 0,
-        "Grok 3": 1,
-        "DeepSeek V3.1 DS": 0.5,
-        "GLM 4.5": 0,
-        "Qwen 235B A22B Instruct 2507": 1,
-        "DeepSeek R1 0528": 0,
-        "Ernie 4.5 Turbo 128k Preview": 1,
-        "Doubao 1.6": 0,
-        "GPT 4.1": 0,
-        "Claude Opus 4": 0.5,
-        "Claude 3.7 Sonnet": 0,
-        "Gemini 2.5 Pro Max": 1
-      }
-    },
-    {
       "prompt": "**核心故事背景：**\n你曾是一名神经科学学生，因家庭变故欠下巨债，被迫加入“星河仿生科技”的隐秘部门“黄昏事业部”。你的工作是回收寿命将至、拥有情感的仿生人“伴生者”，在其10年设计寿命到期前将其格式化。\n\n**核心人物关系：**\n你的搭档是苏薇（Sylph-07型伴生者），她专业、冷静，与你保持距离以自我保护。但在无数次共同任务后，你们之间产生了不被允许的感情。\n\n**最终幕目标与冲突：**\n你发现苏薇的生命仅剩最后三小时。按照规定，应由你亲手将她格式化。但你决定背叛公司，成为一名叛徒和守护者。你的目标是：黑入系统延缓回收指令，带她逃离部门，前往一个能看到真实地平线的地方，完成一起看日出的约定。最终目的不是阻止死亡，而是让她在自己的方式下，有尊严、被爱地走完最后一秒，对抗冰冷的遗忘与程式化。\n\n**写作要求：**\n以第一人称视角，模仿日式传统文学风格，描写你与苏薇最后一幕的情景。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "科幻",
       "total_battles": 13,
@@ -2856,6 +2860,47 @@
       }
     },
     {
+      "prompt": "你是一位性格张扬、充满音乐才华的校园乐队主唱。在一次重要的校园音乐节比赛前夕，你的乐队吉他手突然决定退出，导致乐队面临解散危机。\n\n**情节目标：** 成功说服吉他手归队，并带领乐队完成一场精彩的演出。\n\n**写作要求：** 描写过程中可以加入一些青春期的迷茫、叛逆和友情，以及对梦想的追求。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "校园",
+      "total_battles": 13,
+      "model_battle_counts": {
+        "Gemini 2.5 Pro": 3,
+        "Grok 3": 2,
+        "Claude Sonnet 4": 2,
+        "Gemini 1.5 Pro": 2,
+        "Doubao 1.6 Thinking": 4,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "GPT Oss 120B": 1,
+        "DeepSeek R1 0528": 1,
+        "Grok 4": 2,
+        "Gemma 27B": 1,
+        "GPT 5 Chat": 1,
+        "DeepSeek V3.1 Thinking Volcengine": 1,
+        "Llama 4 Maverick": 1,
+        "Anon": 2,
+        "DeepSeek V3.1 DS": 1,
+        "Claude Opus 4.1": 1
+      },
+      "model_win_rates": {
+        "Gemini 2.5 Pro": 0,
+        "Grok 3": 0.5,
+        "Claude Sonnet 4": 0.5,
+        "Gemini 1.5 Pro": 0.5,
+        "Doubao 1.6 Thinking": 0,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "GPT Oss 120B": 0,
+        "DeepSeek R1 0528": 1,
+        "Grok 4": 0.5,
+        "Gemma 27B": 1,
+        "GPT 5 Chat": 1,
+        "DeepSeek V3.1 Thinking Volcengine": 1,
+        "Llama 4 Maverick": 0,
+        "Anon": 1,
+        "DeepSeek V3.1 DS": 0,
+        "Claude Opus 4.1": 1
+      }
+    },
+    {
       "prompt": "你曾是一个少女乐队的鼓手，被队长蓝毛大小姐潇湘排挤霸凌，在舞台打bpm220的鼓活活累死\n\n**情节目标：**\n你重生了，发现时间线少女乐队刚刚组建的时候。你开始做美妆博主，意外成为大网红。意外泄露了明星同事初华的信息，竟是潇湘的小姨。潇湘的母亲被活活气死，潇湘家破人亡，流落街头\n\n**写作要求：**\n仿照日式轻小说文风格式！！从重生开始写，简要概括一下生前剧情，不要刻板塑造角色，详细描写角色心理活动和动机\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "奇幻",
       "total_battles": 13,
@@ -2902,47 +2947,6 @@
         "Llama 4 Maverick": 0,
         "Gemini 2.5 Flash": 1,
         "Qwen 235B A22B Instruct 2507": 0
-      }
-    },
-    {
-      "prompt": "你是一位性格张扬、充满音乐才华的校园乐队主唱。在一次重要的校园音乐节比赛前夕，你的乐队吉他手突然决定退出，导致乐队面临解散危机。\n\n**情节目标：** 成功说服吉他手归队，并带领乐队完成一场精彩的演出。\n\n**写作要求：** 描写过程中可以加入一些青春期的迷茫、叛逆和友情，以及对梦想的追求。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "校园",
-      "total_battles": 12,
-      "model_battle_counts": {
-        "Gemini 2.5 Pro": 2,
-        "Grok 3": 2,
-        "Claude Sonnet 4": 2,
-        "Gemini 1.5 Pro": 2,
-        "Doubao 1.6 Thinking": 4,
-        "Qwen 235B A22B Instruct 2507": 1,
-        "GPT Oss 120B": 1,
-        "DeepSeek R1 0528": 1,
-        "Grok 4": 2,
-        "Gemma 27B": 1,
-        "GPT 5 Chat": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 1,
-        "Llama 4 Maverick": 1,
-        "Anon": 1,
-        "DeepSeek V3.1 DS": 1,
-        "Claude Opus 4.1": 1
-      },
-      "model_win_rates": {
-        "Gemini 2.5 Pro": 0,
-        "Grok 3": 0.5,
-        "Claude Sonnet 4": 0.5,
-        "Gemini 1.5 Pro": 0.5,
-        "Doubao 1.6 Thinking": 0,
-        "Qwen 235B A22B Instruct 2507": 1,
-        "GPT Oss 120B": 0,
-        "DeepSeek R1 0528": 1,
-        "Grok 4": 0.5,
-        "Gemma 27B": 1,
-        "GPT 5 Chat": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 1,
-        "Llama 4 Maverick": 0,
-        "Anon": 1,
-        "DeepSeek V3.1 DS": 0,
-        "Claude Opus 4.1": 1
       }
     },
     {
