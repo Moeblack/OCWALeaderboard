@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-26T10:47:37.452Z",
+  "updatedAt": "2025-08-26T10:49:11.244Z",
   "win_rate_matrix": {
     "Claude 3.7 Sonnet": {
       "Claude Opus 4": 0.3333333333333333,
@@ -1494,7 +1494,7 @@
       "Mistral Medium 2508": 1,
       "DeepSeek V3": 1,
       "Gemini 2.5 Pro Max": 2,
-      "Claude Opus 4.1": 1
+      "Claude Opus 4.1": 2
     },
     "Ernie 4.5 Turbo 128k Preview": {
       "GPT Oss 120B": 1,
@@ -1733,7 +1733,7 @@
       "DeepSeek V3.1 DS": 1,
       "DeepSeek V3.1 Volcengine": 1,
       "Anon": 1,
-      "Qwen 235B A22B Instruct 2507": 1,
+      "Qwen 235B A22B Instruct 2507": 2,
       "DeepSeek V3.1 Thinking Volcengine": 1,
       "Gemini 2.5 Pro Max": 1,
       "Grok 3": 1
