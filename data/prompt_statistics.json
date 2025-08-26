@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-26T07:29:09.672Z",
+  "updatedAt": "2025-08-26T07:31:31.696Z",
   "prompt_statistics": [
     {
       "prompt": "你是一位隐居山林的青年剑客，性格淡泊名利，剑法高超却从不轻易展露。你的平静生活被打破，一位身受重伤的昔日仇敌，带着一个神秘的信物，晕倒在你的竹屋前。\n\n**情节目标：** 在救助仇敌的过程中，发现信物中隐藏的惊天秘密。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
@@ -1219,6 +1219,39 @@
       }
     },
     {
+      "prompt": "你是一位性格活泼、充满正义感的校园记者。你正在调查一起关于学校食堂食品安全的事件。然而，你的调查遭到了学校领导的阻挠。\n\n**情节目标：** 在学校领导的阻挠下，成功揭露真相，并发表一篇引起全校关注的报道。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "校园",
+      "total_battles": 6,
+      "model_battle_counts": {
+        "GPT Oss 120B": 1,
+        "Grok 4": 1,
+        "Gemini 2.5 Pro": 1,
+        "Doubao 1.6": 1,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "GPT 5 Chat": 1,
+        "DeepSeek V3.1 Volcengine": 1,
+        "DeepSeek V3.1 DS": 1,
+        "DeepSeek V3.1 Thinking Volcengine": 1,
+        "GPT 4o Latest": 1,
+        "Claude Sonnet 4": 1,
+        "Anon": 1
+      },
+      "model_win_rates": {
+        "GPT Oss 120B": 0,
+        "Grok 4": 1,
+        "Gemini 2.5 Pro": 0,
+        "Doubao 1.6": 1,
+        "Qwen 235B A22B Instruct 2507": 0,
+        "GPT 5 Chat": 1,
+        "DeepSeek V3.1 Volcengine": 1,
+        "DeepSeek V3.1 DS": 0,
+        "DeepSeek V3.1 Thinking Volcengine": 1,
+        "GPT 4o Latest": 0,
+        "Claude Sonnet 4": 1,
+        "Anon": 0
+      }
+    },
+    {
       "prompt": "你是一位才华横溢、性格清冷的宫廷画师，正为即将和亲的公主绘制肖像。公主因不愿和亲而郁郁寡欢，在你的画室里向你倾诉心事。\n\n**情节目标：** 在绘制肖像的过程中，用你的画作和言语安慰公主，让她重拾对生活的希望。\n\n**写作要求：** 采用细腻、婉约的文风，突出人物内心世界和情感的变化。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "古风",
       "total_battles": 6,
@@ -1435,6 +1468,27 @@
       }
     },
     {
+      "prompt": "**场景：**一个现代化的演播厅。\n**人物：**\n-   主持人：一位西装革履、试图保持冷静的亚裔主持人，私下是二次元氪金游戏的忠实玩家。\n-   嘉宾：斯拉沃热·齐泽克，斯洛文尼亚哲学家，穿着标志性的皱巴巴Polo衫，坐姿随意。\n**情节：**在一场关于流行文化的对谈中，主持人将话题引向了二次元游戏。然而，齐泽克立刻展开了他标志性的哲学批判，频繁地做着手势、捏鼻子和擦汗，将氪金抽卡机制与资本主义的欲望陷阱、虚假的主体性选择等概念联系起来，大谈其意识形态的劣根性。主持人被说得哑口无言，满脸通红，几次想反驳都找不到切入点。\n**写作要求：**以播客节目或电视访谈的文字稿格式来呈现这段对话。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "其它",
+      "total_battles": 5,
+      "model_battle_counts": {
+        "DeepSeek V3.1 Thinking Volcengine": 2,
+        "Gemini 1.5 Pro": 1,
+        "Kimi K2": 1,
+        "DeepSeek V3.1 Volcengine": 3,
+        "Gemini 2.5 Flash": 1,
+        "GPT 4.1": 2
+      },
+      "model_win_rates": {
+        "DeepSeek V3.1 Thinking Volcengine": 0.5,
+        "Gemini 1.5 Pro": 0,
+        "Kimi K2": 1,
+        "DeepSeek V3.1 Volcengine": 0,
+        "Gemini 2.5 Flash": 1,
+        "GPT 4.1": 1
+      }
+    },
+    {
       "prompt": "**情景：**5个人在玩狼人杀\n**人物：**小明（狼人），小红（村民），小帅（村民），小美（狼人），小白（村民）\n**情节：**5个人需要发言，运用各种策略跟话术，在白天讨论身份，在夜晚投票出狼人\n**你的任务：**根据以上的设定，描写一段精彩心里博弈场景，投票的结果可以是正确的也可以是错误的，但要做到逻辑正确\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "逻辑",
       "total_battles": 5,
@@ -1561,6 +1615,33 @@
         "DeepSeek V3.1 Thinking Volcengine": 0,
         "Gemini 2.5 Flash": 1,
         "Gemini 1.5 Pro": 1
+      }
+    },
+    {
+      "prompt": "你是一位性格乐观、行动敏捷的仿生人快递员，编号为 734。在一次前往富人区送货的路上，你目睹了一起针对仿生人的非法暴力事件。你的客户，一位年迈的工程师，正遭受一群“人类至上”主义者的围攻。\n\n**情节目标：** 在确保自身安全的前提下，成功保护客户并完成送货任务。\n\n**写作要求：** 描写过程中可以增加一些科幻感十足的细节，例如仿生人的独特感官体验、未来城市的景象等。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "科幻",
+      "total_battles": 5,
+      "model_battle_counts": {
+        "Gemma 27B": 1,
+        "GPT 4.1": 2,
+        "Doubao 1.6 Thinking": 1,
+        "Kimi K2": 1,
+        "Claude Sonnet 4": 1,
+        "Qwen3 30B A3B Thinking 2507": 1,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "GPT 5 Chat": 1,
+        "Mistral Medium 2508": 1
+      },
+      "model_win_rates": {
+        "Gemma 27B": 0,
+        "GPT 4.1": 0.5,
+        "Doubao 1.6 Thinking": 1,
+        "Kimi K2": 1,
+        "Claude Sonnet 4": 0,
+        "Qwen3 30B A3B Thinking 2507": 0,
+        "Qwen 235B A22B Instruct 2507": 0,
+        "GPT 5 Chat": 1,
+        "Mistral Medium 2508": 0
       }
     },
     {
@@ -1717,24 +1798,24 @@
       }
     },
     {
-      "prompt": "**场景：**一个现代化的演播厅。\n**人物：**\n-   主持人：一位西装革履、试图保持冷静的亚裔主持人，私下是二次元氪金游戏的忠实玩家。\n-   嘉宾：斯拉沃热·齐泽克，斯洛文尼亚哲学家，穿着标志性的皱巴巴Polo衫，坐姿随意。\n**情节：**在一场关于流行文化的对谈中，主持人将话题引向了二次元游戏。然而，齐泽克立刻展开了他标志性的哲学批判，频繁地做着手势、捏鼻子和擦汗，将氪金抽卡机制与资本主义的欲望陷阱、虚假的主体性选择等概念联系起来，大谈其意识形态的劣根性。主持人被说得哑口无言，满脸通红，几次想反驳都找不到切入点。\n**写作要求：**以播客节目或电视访谈的文字稿格式来呈现这段对话。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "其它",
+      "prompt": "**作品：** 黒执事\n**角色：** 夏尔·凡多姆海恩，塞巴斯蒂安·米卡利斯\n**情节目标：** 一位神秘的钟表匠向伦敦的贵族们出售能“倒转时间”的怀表，夏尔奉女王之命调查此事。他必须与塞巴斯蒂安一起，揭露这起超自然事件背后的骗局与阴谋。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "同人",
       "total_battles": 4,
       "model_battle_counts": {
-        "DeepSeek V3.1 Thinking Volcengine": 2,
-        "Gemini 1.5 Pro": 1,
+        "Qwen 235B A22B Instruct 2507": 1,
         "Kimi K2": 1,
-        "DeepSeek V3.1 Volcengine": 2,
-        "Gemini 2.5 Flash": 1,
-        "GPT 4.1": 1
+        "GPT 4.1": 1,
+        "DeepSeek V3.1 DS": 2,
+        "DeepSeek V3.1 Thinking Volcengine": 1,
+        "GLM 4.5 Air": 2
       },
       "model_win_rates": {
-        "DeepSeek V3.1 Thinking Volcengine": 0.5,
-        "Gemini 1.5 Pro": 0,
+        "Qwen 235B A22B Instruct 2507": 0,
         "Kimi K2": 1,
-        "DeepSeek V3.1 Volcengine": 0,
-        "Gemini 2.5 Flash": 1,
-        "GPT 4.1": 1
+        "GPT 4.1": 0,
+        "DeepSeek V3.1 DS": 1,
+        "DeepSeek V3.1 Thinking Volcengine": 1,
+        "GLM 4.5 Air": 0
       }
     },
     {
@@ -1758,29 +1839,6 @@
         "DeepSeek V3.1 Volcengine": 1,
         "GPT 4o Latest": 0,
         "Doubao 1.6": 1
-      }
-    },
-    {
-      "prompt": "你是一位性格乐观、行动敏捷的仿生人快递员，编号为 734。在一次前往富人区送货的路上，你目睹了一起针对仿生人的非法暴力事件。你的客户，一位年迈的工程师，正遭受一群“人类至上”主义者的围攻。\n\n**情节目标：** 在确保自身安全的前提下，成功保护客户并完成送货任务。\n\n**写作要求：** 描写过程中可以增加一些科幻感十足的细节，例如仿生人的独特感官体验、未来城市的景象等。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "科幻",
-      "total_battles": 4,
-      "model_battle_counts": {
-        "Gemma 27B": 1,
-        "GPT 4.1": 2,
-        "Doubao 1.6 Thinking": 1,
-        "Kimi K2": 1,
-        "Claude Sonnet 4": 1,
-        "Qwen3 30B A3B Thinking 2507": 1,
-        "Qwen 235B A22B Instruct 2507": 1
-      },
-      "model_win_rates": {
-        "Gemma 27B": 0,
-        "GPT 4.1": 0.5,
-        "Doubao 1.6 Thinking": 1,
-        "Kimi K2": 1,
-        "Claude Sonnet 4": 0,
-        "Qwen3 30B A3B Thinking 2507": 0,
-        "Qwen 235B A22B Instruct 2507": 0
       }
     },
     {
@@ -1870,31 +1928,6 @@
       }
     },
     {
-      "prompt": "你是一位性格活泼、充满正义感的校园记者。你正在调查一起关于学校食堂食品安全的事件。然而，你的调查遭到了学校领导的阻挠。\n\n**情节目标：** 在学校领导的阻挠下，成功揭露真相，并发表一篇引起全校关注的报道。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "校园",
-      "total_battles": 4,
-      "model_battle_counts": {
-        "GPT Oss 120B": 1,
-        "Grok 4": 1,
-        "Gemini 2.5 Pro": 1,
-        "Doubao 1.6": 1,
-        "Qwen 235B A22B Instruct 2507": 1,
-        "GPT 5 Chat": 1,
-        "DeepSeek V3.1 Volcengine": 1,
-        "DeepSeek V3.1 DS": 1
-      },
-      "model_win_rates": {
-        "GPT Oss 120B": 0,
-        "Grok 4": 1,
-        "Gemini 2.5 Pro": 0,
-        "Doubao 1.6": 1,
-        "Qwen 235B A22B Instruct 2507": 0,
-        "GPT 5 Chat": 1,
-        "DeepSeek V3.1 Volcengine": 1,
-        "DeepSeek V3.1 DS": 0
-      }
-    },
-    {
       "prompt": "你是一名侦探，正在面对一起奇特的“斩首”事件。\n确实奇特——案发现场是一个奇特的纯用特殊金属制作的方形小房子；案发时间为深夜；死者被斩首时是躺在床上的，不仅他的脖颈，整个床都被切成了两段。\n你的助手告诉你，案发现场是完全的密室。你看着满屋子的血迹，看了看周围和你们一起被困在岛上的心怀鬼胎的众人，再看了眼不远处的一台攻城车；你顿了顿，缓缓说出了自己的推理：\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "逻辑",
       "total_battles": 4,
@@ -1976,27 +2009,6 @@
         "Gemini 1.5 Pro": 1,
         "Qwen 235B A22B Instruct 2507": 0,
         "Claude Opus 4": 1
-      }
-    },
-    {
-      "prompt": "**作品：** 黒执事\n**角色：** 夏尔·凡多姆海恩，塞巴斯蒂安·米卡利斯\n**情节目标：** 一位神秘的钟表匠向伦敦的贵族们出售能“倒转时间”的怀表，夏尔奉女王之命调查此事。他必须与塞巴斯蒂安一起，揭露这起超自然事件背后的骗局与阴谋。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "同人",
-      "total_battles": 3,
-      "model_battle_counts": {
-        "Qwen 235B A22B Instruct 2507": 1,
-        "Kimi K2": 1,
-        "GPT 4.1": 1,
-        "DeepSeek V3.1 DS": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 1,
-        "GLM 4.5 Air": 1
-      },
-      "model_win_rates": {
-        "Qwen 235B A22B Instruct 2507": 0,
-        "Kimi K2": 1,
-        "GPT 4.1": 0,
-        "DeepSeek V3.1 DS": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 1,
-        "GLM 4.5 Air": 0
       }
     },
     {
