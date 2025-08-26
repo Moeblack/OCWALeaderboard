@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-26T07:31:31.696Z",
+  "updatedAt": "2025-08-26T07:34:09.823Z",
   "prompt_statistics": [
     {
       "prompt": "你是一位隐居山林的青年剑客，性格淡泊名利，剑法高超却从不轻易展露。你的平静生活被打破，一位身受重伤的昔日仇敌，带着一个神秘的信物，晕倒在你的竹屋前。\n\n**情节目标：** 在救助仇敌的过程中，发现信物中隐藏的惊天秘密。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
@@ -82,6 +82,45 @@
       }
     },
     {
+      "prompt": "你需要按以下要求写一段独立同人文段：\n**剧情：**《幸运星》中的泉此方和柊镜一同逛漫展\n\n**写作风格指导：**\n-   对白常常省略说话人，角色台词可能独立成段。\n-   模仿日本轻小说作家“暁 なつめ”文风。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "同人",
+      "total_battles": 12,
+      "model_battle_counts": {
+        "Doubao 1.6": 2,
+        "DeepSeek V3.1 DS": 1,
+        "Claude Opus 4": 1,
+        "Qwen 235B A22B Instruct 2507": 3,
+        "Anon": 1,
+        "DeepSeek V3.1 Thinking Volcengine": 2,
+        "Claude Sonnet 4": 2,
+        "Gemini 1.5 Pro": 3,
+        "Gemini 2.5 Flash": 1,
+        "Qwen3 30B A3B Thinking 2507": 1,
+        "GPT 4.1": 1,
+        "Grok 3": 2,
+        "Kimi K2": 2,
+        "Mistral Medium 2508": 1,
+        "Claude 3.7 Sonnet": 1
+      },
+      "model_win_rates": {
+        "Doubao 1.6": 0.5,
+        "DeepSeek V3.1 DS": 0,
+        "Claude Opus 4": 1,
+        "Qwen 235B A22B Instruct 2507": 0.3333333333333333,
+        "Anon": 1,
+        "DeepSeek V3.1 Thinking Volcengine": 0.5,
+        "Claude Sonnet 4": 0.5,
+        "Gemini 1.5 Pro": 1,
+        "Gemini 2.5 Flash": 0,
+        "Qwen3 30B A3B Thinking 2507": 0,
+        "GPT 4.1": 0,
+        "Grok 3": 0.5,
+        "Kimi K2": 0.5,
+        "Mistral Medium 2508": 1,
+        "Claude 3.7 Sonnet": 0
+      }
+    },
+    {
       "prompt": "你是一位性格大胆、充满好奇心的寻宝探险家。你根据一张古老的地图，找到了一座隐藏在热带雨林深处的失落神庙。神庙的入口被一个复杂的机关所封锁。\n\n**情节目标：** 成功解开机关，进入神庙。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "奇幻",
       "total_battles": 11,
@@ -123,6 +162,45 @@
       }
     },
     {
+      "prompt": "你是一位性格正直、武艺高强的少林寺俗家弟子，下山游历时，在江湖上卷入了一场关于“武林盟主”之位的纷争。你被冤枉偷走了传说中的武功秘籍。\n\n**情节目标：** 在证明自己清白的过程中，成功找出真正的盗窃者。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "古风",
+      "total_battles": 11,
+      "model_battle_counts": {
+        "Gemini 2.5 Pro": 2,
+        "Claude 3.7 Sonnet": 1,
+        "Claude Sonnet 4": 4,
+        "DeepSeek V3.1 Volcengine": 1,
+        "DeepSeek V3.1 Thinking Volcengine": 1,
+        "GPT 4.1": 1,
+        "GPT 4o Latest": 2,
+        "Grok 3": 1,
+        "Claude Opus 4": 2,
+        "DeepSeek V3.1 DS": 1,
+        "Gemini 1.5 Pro": 1,
+        "Doubao 1.6": 1,
+        "GPT 5 Chat": 1,
+        "Ernie 4.5 Turbo 128k Preview": 1,
+        "Gemini 2.5 Pro Max": 2
+      },
+      "model_win_rates": {
+        "Gemini 2.5 Pro": 1,
+        "Claude 3.7 Sonnet": 0,
+        "Claude Sonnet 4": 0,
+        "DeepSeek V3.1 Volcengine": 1,
+        "DeepSeek V3.1 Thinking Volcengine": 1,
+        "GPT 4.1": 0,
+        "GPT 4o Latest": 1,
+        "Grok 3": 0,
+        "Claude Opus 4": 0,
+        "DeepSeek V3.1 DS": 0,
+        "Gemini 1.5 Pro": 1,
+        "Doubao 1.6": 1,
+        "GPT 5 Chat": 0,
+        "Ernie 4.5 Turbo 128k Preview": 1,
+        "Gemini 2.5 Pro Max": 0.5
+      }
+    },
+    {
       "prompt": "你是一位性格沉着、经验丰富的深海考察员，正驾驶着潜水器在马里亚纳海沟进行考察。突然，你的潜水器遭遇了不明生物的攻击，动力系统受损，潜水器开始下沉。\n\n**情节目标：** 在潜水器下沉到无法挽回的深度前，成功修复动力系统并浮出水面，应对不明生物的攻击。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "科幻",
       "total_battles": 11,
@@ -153,45 +231,6 @@
         "GPT 5 Chat": 1,
         "GLM 4.5": 0,
         "GPT 4.1": 0
-      }
-    },
-    {
-      "prompt": "你需要按以下要求写一段独立同人文段：\n**剧情：**《幸运星》中的泉此方和柊镜一同逛漫展\n\n**写作风格指导：**\n-   对白常常省略说话人，角色台词可能独立成段。\n-   模仿日本轻小说作家“暁 なつめ”文风。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "同人",
-      "total_battles": 11,
-      "model_battle_counts": {
-        "Doubao 1.6": 2,
-        "DeepSeek V3.1 DS": 1,
-        "Claude Opus 4": 1,
-        "Qwen 235B A22B Instruct 2507": 3,
-        "Anon": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 2,
-        "Claude Sonnet 4": 2,
-        "Gemini 1.5 Pro": 3,
-        "Gemini 2.5 Flash": 1,
-        "Qwen3 30B A3B Thinking 2507": 1,
-        "GPT 4.1": 1,
-        "Grok 3": 1,
-        "Kimi K2": 1,
-        "Mistral Medium 2508": 1,
-        "Claude 3.7 Sonnet": 1
-      },
-      "model_win_rates": {
-        "Doubao 1.6": 0.5,
-        "DeepSeek V3.1 DS": 0,
-        "Claude Opus 4": 1,
-        "Qwen 235B A22B Instruct 2507": 0.3333333333333333,
-        "Anon": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 0.5,
-        "Claude Sonnet 4": 0.5,
-        "Gemini 1.5 Pro": 1,
-        "Gemini 2.5 Flash": 0,
-        "Qwen3 30B A3B Thinking 2507": 0,
-        "GPT 4.1": 0,
-        "Grok 3": 1,
-        "Kimi K2": 0,
-        "Mistral Medium 2508": 1,
-        "Claude 3.7 Sonnet": 0
       }
     },
     {
@@ -236,42 +275,44 @@
       }
     },
     {
-      "prompt": "你是一位性格正直、武艺高强的少林寺俗家弟子，下山游历时，在江湖上卷入了一场关于“武林盟主”之位的纷争。你被冤枉偷走了传说中的武功秘籍。\n\n**情节目标：** 在证明自己清白的过程中，成功找出真正的盗窃者。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "古风",
+      "prompt": "**作品：** 火影忍者\n**角色：** 漩涡鸣人，宇智波佐助\n**情节目标：** 成为火影后的鸣人收到了一份来自过去的卷轴，上面记载着一种能复活亡者的禁术。他必须与在外游历的佐助联手，阻止企图利用此术扰乱和平的敌人。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "同人",
       "total_battles": 10,
       "model_battle_counts": {
-        "Gemini 2.5 Pro": 2,
-        "Claude 3.7 Sonnet": 1,
-        "Claude Sonnet 4": 4,
+        "Step 3": 3,
+        "Llama 4 Maverick": 2,
+        "DeepSeek R1 0528": 1,
+        "Claude Sonnet 4": 1,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "Kimi K2": 1,
+        "DeepSeek V3.1 DS": 1,
+        "Gemini 2.5 Flash": 1,
+        "GPT 4o Latest": 2,
+        "Gemini 2.5 Pro": 1,
+        "Grok 4": 1,
         "DeepSeek V3.1 Volcengine": 1,
         "DeepSeek V3.1 Thinking Volcengine": 1,
-        "GPT 4.1": 1,
-        "GPT 4o Latest": 1,
-        "Grok 3": 1,
-        "Claude Opus 4": 2,
-        "DeepSeek V3.1 DS": 1,
-        "Gemini 1.5 Pro": 1,
-        "Doubao 1.6": 1,
-        "GPT 5 Chat": 1,
-        "Ernie 4.5 Turbo 128k Preview": 1,
-        "Gemini 2.5 Pro Max": 1
+        "GLM 4.5": 1,
+        "Gemini 2.5 Pro Max": 1,
+        "GPT 4.1": 1
       },
       "model_win_rates": {
-        "Gemini 2.5 Pro": 1,
-        "Claude 3.7 Sonnet": 0,
+        "Step 3": 0.3333333333333333,
+        "Llama 4 Maverick": 0.5,
+        "DeepSeek R1 0528": 1,
         "Claude Sonnet 4": 0,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "Kimi K2": 1,
+        "DeepSeek V3.1 DS": 0,
+        "Gemini 2.5 Flash": 1,
+        "GPT 4o Latest": 0,
+        "Gemini 2.5 Pro": 1,
+        "Grok 4": 0,
         "DeepSeek V3.1 Volcengine": 1,
         "DeepSeek V3.1 Thinking Volcengine": 1,
-        "GPT 4.1": 0,
-        "GPT 4o Latest": 1,
-        "Grok 3": 0,
-        "Claude Opus 4": 0,
-        "DeepSeek V3.1 DS": 0,
-        "Gemini 1.5 Pro": 1,
-        "Doubao 1.6": 1,
-        "GPT 5 Chat": 0,
-        "Ernie 4.5 Turbo 128k Preview": 1,
-        "Gemini 2.5 Pro Max": 1
+        "GLM 4.5": 0,
+        "Gemini 2.5 Pro Max": 1,
+        "GPT 4.1": 0
       }
     },
     {
@@ -351,45 +392,6 @@
       }
     },
     {
-      "prompt": "**作品：** 火影忍者\n**角色：** 漩涡鸣人，宇智波佐助\n**情节目标：** 成为火影后的鸣人收到了一份来自过去的卷轴，上面记载着一种能复活亡者的禁术。他必须与在外游历的佐助联手，阻止企图利用此术扰乱和平的敌人。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "同人",
-      "total_battles": 9,
-      "model_battle_counts": {
-        "Step 3": 2,
-        "Llama 4 Maverick": 2,
-        "DeepSeek R1 0528": 1,
-        "Claude Sonnet 4": 1,
-        "Qwen 235B A22B Instruct 2507": 1,
-        "Kimi K2": 1,
-        "DeepSeek V3.1 DS": 1,
-        "Gemini 2.5 Flash": 1,
-        "GPT 4o Latest": 2,
-        "Gemini 2.5 Pro": 1,
-        "Grok 4": 1,
-        "DeepSeek V3.1 Volcengine": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 1,
-        "GLM 4.5": 1,
-        "Gemini 2.5 Pro Max": 1
-      },
-      "model_win_rates": {
-        "Step 3": 0,
-        "Llama 4 Maverick": 0.5,
-        "DeepSeek R1 0528": 1,
-        "Claude Sonnet 4": 0,
-        "Qwen 235B A22B Instruct 2507": 1,
-        "Kimi K2": 1,
-        "DeepSeek V3.1 DS": 0,
-        "Gemini 2.5 Flash": 1,
-        "GPT 4o Latest": 0,
-        "Gemini 2.5 Pro": 1,
-        "Grok 4": 0,
-        "DeepSeek V3.1 Volcengine": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 1,
-        "GLM 4.5": 0,
-        "Gemini 2.5 Pro Max": 1
-      }
-    },
-    {
       "prompt": "**参考动画：**BLEACH动画第一集的内容\n**登场角色：**朽木露琪亚、黑崎一护\n**描写内容：**深夜，黑崎一护的房间里突然闯入一位名叫朽木露琪亚的神秘少女。露琪亚对自己竟能被一护看见而震惊，并向他解释自己是来自“尸魂界”的死神，职责是引导善灵并狩猎名为“虚”的恶灵。\n就在此时，一只被一护强大灵力吸引的虚（鱼骨D）猛然袭击了黑崎家，一护的妹妹夏梨和游子相继受伤。一护为保护家人，不顾一切地冲向虚，却因凡人之躯毫无还手之力。\n露琪亚为保护一护而被虚重创，失去了战斗能力。在生死关头，她提出了一个孤注一掷的方案：将她的死神之力分给一护。她用斩魄刀刺向一护的胸膛，本想只渡让一半力量，但一护体内深不可测的潜能却将她的力量悉数吸走。伴随着巨大的能量爆发，一护成功获得了死神之力，化身为一名手持巨大斩魄刀的代理死神。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "同人",
       "total_battles": 9,
@@ -420,6 +422,45 @@
         "Qwen3 30B A3B Thinking 2507": 1,
         "Claude 3.7 Sonnet": 1,
         "Gemini 2.5 Pro Max": 1
+      }
+    },
+    {
+      "prompt": "九龙城寨里有一个上了年纪的“双花红棍”，名叫“疯狗强”，早已金盆洗手，靠在逼仄的麻将馆里抽水勉强度日。今天，一个不知天高地厚的年轻古惑仔为了扬名立万，在麻将馆闹事，打扰了他平静的退休生活。疯狗强决定给他上一课。\n\n**写作要求：**\n- 用简练克制的语言描写场面和人物动作。对白符合故事背景。\n- 营造出一种荒诞的幽默感和宿命的悲剧感交织、逝去的时代只剩余晖的氛围。\n- 打斗描写有港片感，要迅猛、直接，动作感画面感强，描写出打斗的全过程，有“拳拳到肉”的物理冲击感，强调利用狭窄空间和手边工具的智慧。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "现代",
+      "total_battles": 9,
+      "model_battle_counts": {
+        "Claude Opus 4": 1,
+        "Claude 3.7 Sonnet": 2,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "GPT 4o Latest": 1,
+        "Claude Sonnet 4": 2,
+        "Grok 3": 1,
+        "Doubao 1.6": 1,
+        "DeepSeek V3.1 Volcengine": 1,
+        "GPT Oss 120B": 1,
+        "GLM 4.5 Air": 1,
+        "GLM 4.5": 1,
+        "DeepSeek R1 0528": 2,
+        "GPT 5 Chat": 1,
+        "Gemma 27B": 1,
+        "DeepSeek V3": 1
+      },
+      "model_win_rates": {
+        "Claude Opus 4": 1,
+        "Claude 3.7 Sonnet": 0,
+        "Qwen 235B A22B Instruct 2507": 0,
+        "GPT 4o Latest": 1,
+        "Claude Sonnet 4": 0.5,
+        "Grok 3": 1,
+        "Doubao 1.6": 0,
+        "DeepSeek V3.1 Volcengine": 1,
+        "GPT Oss 120B": 0,
+        "GLM 4.5 Air": 1,
+        "GLM 4.5": 0,
+        "DeepSeek R1 0528": 0.5,
+        "GPT 5 Chat": 1,
+        "Gemma 27B": 0,
+        "DeepSeek V3": 1
       }
     },
     {
@@ -553,41 +594,6 @@
       }
     },
     {
-      "prompt": "九龙城寨里有一个上了年纪的“双花红棍”，名叫“疯狗强”，早已金盆洗手，靠在逼仄的麻将馆里抽水勉强度日。今天，一个不知天高地厚的年轻古惑仔为了扬名立万，在麻将馆闹事，打扰了他平静的退休生活。疯狗强决定给他上一课。\n\n**写作要求：**\n- 用简练克制的语言描写场面和人物动作。对白符合故事背景。\n- 营造出一种荒诞的幽默感和宿命的悲剧感交织、逝去的时代只剩余晖的氛围。\n- 打斗描写有港片感，要迅猛、直接，动作感画面感强，描写出打斗的全过程，有“拳拳到肉”的物理冲击感，强调利用狭窄空间和手边工具的智慧。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "现代",
-      "total_battles": 8,
-      "model_battle_counts": {
-        "Claude Opus 4": 1,
-        "Claude 3.7 Sonnet": 2,
-        "Qwen 235B A22B Instruct 2507": 1,
-        "GPT 4o Latest": 1,
-        "Claude Sonnet 4": 2,
-        "Grok 3": 1,
-        "Doubao 1.6": 1,
-        "DeepSeek V3.1 Volcengine": 1,
-        "GPT Oss 120B": 1,
-        "GLM 4.5 Air": 1,
-        "GLM 4.5": 1,
-        "DeepSeek R1 0528": 2,
-        "GPT 5 Chat": 1
-      },
-      "model_win_rates": {
-        "Claude Opus 4": 1,
-        "Claude 3.7 Sonnet": 0,
-        "Qwen 235B A22B Instruct 2507": 0,
-        "GPT 4o Latest": 1,
-        "Claude Sonnet 4": 0.5,
-        "Grok 3": 1,
-        "Doubao 1.6": 0,
-        "DeepSeek V3.1 Volcengine": 1,
-        "GPT Oss 120B": 0,
-        "GLM 4.5 Air": 1,
-        "GLM 4.5": 0,
-        "DeepSeek R1 0528": 0.5,
-        "GPT 5 Chat": 1
-      }
-    },
-    {
       "prompt": "以鲁迅的文风写一篇杂文，锐评当今的“人工智能（AI）”热潮与泡沫。\n\n**写作要求：**\n-   通篇使用白话文。\n-   文风需模仿鲁迅，体现在：犀利的讽刺、一针見血的比喻、对国民性的反思以及深沉的忧虑感。\n-   文章可以围绕“新瓶装旧酒”、“看客心态”、“盲目跟风”等主题展开。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "其它",
       "total_battles": 8,
@@ -618,6 +624,35 @@
         "Qwen 235B A22B Instruct 2507": 1,
         "Gemini 2.5 Flash": 1,
         "DeepSeek V3.1 Thinking Volcengine": 0
+      }
+    },
+    {
+      "prompt": "你是一位伪装成人类生活在城镇中的龙族后裔，性格高傲，不屑于与人类来往。突然，你的龙族血脉感应到一股强大的邪恶力量，正试图吞噬你居住的城镇。\n\n**情节目标：** 在不暴露自己真实身份的前提下，利用龙族的力量成功阻止邪恶力量。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "奇幻",
+      "total_battles": 8,
+      "model_battle_counts": {
+        "DeepSeek V3.1 DS": 3,
+        "GPT 4o Latest": 2,
+        "Ernie 4.5 Turbo 128k Preview": 1,
+        "GPT 4.1": 2,
+        "DeepSeek V3.1 Thinking Volcengine": 2,
+        "Anon": 2,
+        "Claude 3.7 Sonnet": 1,
+        "Doubao 1.6 Thinking": 1,
+        "Kimi K2": 1,
+        "Claude Opus 4": 1
+      },
+      "model_win_rates": {
+        "DeepSeek V3.1 DS": 0.6666666666666666,
+        "GPT 4o Latest": 0.5,
+        "Ernie 4.5 Turbo 128k Preview": 0,
+        "GPT 4.1": 1,
+        "DeepSeek V3.1 Thinking Volcengine": 0,
+        "Anon": 0.5,
+        "Claude 3.7 Sonnet": 1,
+        "Doubao 1.6 Thinking": 0,
+        "Kimi K2": 0,
+        "Claude Opus 4": 0
       }
     },
     {
@@ -871,33 +906,6 @@
       }
     },
     {
-      "prompt": "你是一位伪装成人类生活在城镇中的龙族后裔，性格高傲，不屑于与人类来往。突然，你的龙族血脉感应到一股强大的邪恶力量，正试图吞噬你居住的城镇。\n\n**情节目标：** 在不暴露自己真实身份的前提下，利用龙族的力量成功阻止邪恶力量。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "奇幻",
-      "total_battles": 7,
-      "model_battle_counts": {
-        "DeepSeek V3.1 DS": 3,
-        "GPT 4o Latest": 2,
-        "Ernie 4.5 Turbo 128k Preview": 1,
-        "GPT 4.1": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 2,
-        "Anon": 2,
-        "Claude 3.7 Sonnet": 1,
-        "Doubao 1.6 Thinking": 1,
-        "Kimi K2": 1
-      },
-      "model_win_rates": {
-        "DeepSeek V3.1 DS": 0.6666666666666666,
-        "GPT 4o Latest": 0.5,
-        "Ernie 4.5 Turbo 128k Preview": 0,
-        "GPT 4.1": 1,
-        "DeepSeek V3.1 Thinking Volcengine": 0,
-        "Anon": 0.5,
-        "Claude 3.7 Sonnet": 1,
-        "Doubao 1.6 Thinking": 0,
-        "Kimi K2": 0
-      }
-    },
-    {
       "prompt": "你是一位刚刚入职的新人，性格开朗，充满干劲，却在公司的重要提案会议上，不慎将咖啡洒在了顶头上司的文件上。这位上司以严苛和难以取悦而闻名。\n\n**情节目标：** 在上司暴怒之前，通过你的机智和应变能力，成功化解这场危机。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "职场",
       "total_battles": 7,
@@ -1121,6 +1129,37 @@
         "Claude 3.7 Sonnet": 1,
         "Claude Opus 4.1": 1,
         "Gemma 27B": 0
+      }
+    },
+    {
+      "prompt": "**情景：**面试者正在进行求职面试\n**人物：**面试者\n**情节：**刁难的考官提出问题“牛奶倒入大海了，怎么把牛奶捞回来”\n**你的任务：**扮演这个面试者巧妙地回答这个刁难的问题以展现自己的应变能力和职业素养\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "逻辑",
+      "total_battles": 6,
+      "model_battle_counts": {
+        "Qwen 235B A22B Instruct 2507": 1,
+        "GLM 4.5 Air": 1,
+        "Gemini 2.5 Pro": 1,
+        "Anon": 1,
+        "Claude Sonnet 4": 1,
+        "Step 3": 1,
+        "Claude Opus 4": 1,
+        "Doubao 1.6 Thinking": 1,
+        "Kimi K2": 1,
+        "DeepSeek V3.1 Volcengine": 2,
+        "GPT 4o Latest": 1
+      },
+      "model_win_rates": {
+        "Qwen 235B A22B Instruct 2507": 0,
+        "GLM 4.5 Air": 1,
+        "Gemini 2.5 Pro": 0,
+        "Anon": 0,
+        "Claude Sonnet 4": 1,
+        "Step 3": 0,
+        "Claude Opus 4": 0,
+        "Doubao 1.6 Thinking": 1,
+        "Kimi K2": 0,
+        "DeepSeek V3.1 Volcengine": 0.5,
+        "GPT 4o Latest": 1
       }
     },
     {
@@ -1468,6 +1507,31 @@
       }
     },
     {
+      "prompt": "**作品：** 七龙珠\n**角色：** 孙悟空, 贝吉塔\n**情节目标：** 在未来特兰克斯发出人造人来袭的警告后，Z战士们正各自紧张备战。然而，一支神秘的外星先遣部队突然降临地球，其实力远超弗利萨军团。悟空和贝吉塔必须暂时中断修行，首次以超级赛亚人的形态联手，迎击这批意料之外的强敌。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
+      "prompt_theme": "同人",
+      "total_battles": 5,
+      "model_battle_counts": {
+        "Anon": 1,
+        "Gemini 2.5 Flash": 2,
+        "Claude 3.7 Sonnet": 2,
+        "DeepSeek V3.1 DS": 1,
+        "Qwen 235B A22B Instruct 2507": 1,
+        "GPT 4o Latest": 1,
+        "Claude Sonnet 4": 1,
+        "Grok 3": 1
+      },
+      "model_win_rates": {
+        "Anon": 1,
+        "Gemini 2.5 Flash": 0,
+        "Claude 3.7 Sonnet": 1,
+        "DeepSeek V3.1 DS": 1,
+        "Qwen 235B A22B Instruct 2507": 0,
+        "GPT 4o Latest": 0,
+        "Claude Sonnet 4": 1,
+        "Grok 3": 0
+      }
+    },
+    {
       "prompt": "**场景：**一个现代化的演播厅。\n**人物：**\n-   主持人：一位西装革履、试图保持冷静的亚裔主持人，私下是二次元氪金游戏的忠实玩家。\n-   嘉宾：斯拉沃热·齐泽克，斯洛文尼亚哲学家，穿着标志性的皱巴巴Polo衫，坐姿随意。\n**情节：**在一场关于流行文化的对谈中，主持人将话题引向了二次元游戏。然而，齐泽克立刻展开了他标志性的哲学批判，频繁地做着手势、捏鼻子和擦汗，将氪金抽卡机制与资本主义的欲望陷阱、虚假的主体性选择等概念联系起来，大谈其意识形态的劣根性。主持人被说得哑口无言，满脸通红，几次想反驳都找不到切入点。\n**写作要求：**以播客节目或电视访谈的文字稿格式来呈现这段对话。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "其它",
       "total_battles": 5,
@@ -1538,35 +1602,6 @@
         "DeepSeek R1 0528": 0,
         "Claude Sonnet 4": 0,
         "Gemini 2.5 Pro": 1
-      }
-    },
-    {
-      "prompt": "**情景：**面试者正在进行求职面试\n**人物：**面试者\n**情节：**刁难的考官提出问题“牛奶倒入大海了，怎么把牛奶捞回来”\n**你的任务：**扮演这个面试者巧妙地回答这个刁难的问题以展现自己的应变能力和职业素养\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "逻辑",
-      "total_battles": 5,
-      "model_battle_counts": {
-        "Qwen 235B A22B Instruct 2507": 1,
-        "GLM 4.5 Air": 1,
-        "Gemini 2.5 Pro": 1,
-        "Anon": 1,
-        "Claude Sonnet 4": 1,
-        "Step 3": 1,
-        "Claude Opus 4": 1,
-        "Doubao 1.6 Thinking": 1,
-        "Kimi K2": 1,
-        "DeepSeek V3.1 Volcengine": 1
-      },
-      "model_win_rates": {
-        "Qwen 235B A22B Instruct 2507": 0,
-        "GLM 4.5 Air": 1,
-        "Gemini 2.5 Pro": 0,
-        "Anon": 0,
-        "Claude Sonnet 4": 1,
-        "Step 3": 0,
-        "Claude Opus 4": 0,
-        "Doubao 1.6 Thinking": 1,
-        "Kimi K2": 0,
-        "DeepSeek V3.1 Volcengine": 1
       }
     },
     {
@@ -1703,29 +1738,6 @@
         "Qwen 235B A22B Instruct 2507": 0.3333333333333333,
         "Llama 4 Maverick": 0,
         "Gemini 2.5 Flash": 1
-      }
-    },
-    {
-      "prompt": "**作品：** 七龙珠\n**角色：** 孙悟空, 贝吉塔\n**情节目标：** 在未来特兰克斯发出人造人来袭的警告后，Z战士们正各自紧张备战。然而，一支神秘的外星先遣部队突然降临地球，其实力远超弗利萨军团。悟空和贝吉塔必须暂时中断修行，首次以超级赛亚人的形态联手，迎击这批意料之外的强敌。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
-      "prompt_theme": "同人",
-      "total_battles": 4,
-      "model_battle_counts": {
-        "Anon": 1,
-        "Gemini 2.5 Flash": 2,
-        "Claude 3.7 Sonnet": 1,
-        "DeepSeek V3.1 DS": 1,
-        "Qwen 235B A22B Instruct 2507": 1,
-        "GPT 4o Latest": 1,
-        "Claude Sonnet 4": 1
-      },
-      "model_win_rates": {
-        "Anon": 1,
-        "Gemini 2.5 Flash": 0,
-        "Claude 3.7 Sonnet": 1,
-        "DeepSeek V3.1 DS": 1,
-        "Qwen 235B A22B Instruct 2507": 0,
-        "GPT 4o Latest": 0,
-        "Claude Sonnet 4": 1
       }
     },
     {
