@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-26T11:54:11.200Z",
+  "updatedAt": "2025-08-26T11:55:17.456Z",
   "win_rate_matrix": {
     "Claude 3.7 Sonnet": {
       "Claude Opus 4": 0.3333333333333333,
@@ -530,7 +530,7 @@
       "GPT 4.1": null,
       "GPT Oss 120B": null,
       "Grok 3": null,
-      "Grok 4": null,
+      "Grok 4": 1,
       "Kimi K2": null,
       "Llama 4 Maverick": null,
       "Mistral Medium 2508": 0.5,
@@ -916,7 +916,7 @@
       "Doubao 1.6 Thinking": 0,
       "Ernie 4.5 Turbo 128k Preview": 0,
       "Gemini 1.5 Pro": null,
-      "Gemini 2.5 Flash Lite": null,
+      "Gemini 2.5 Flash Lite": 0,
       "Gemini 2.5 Flash": null,
       "Gemini 2.5 Pro": 0,
       "Gemma 27B": 0,
@@ -1787,7 +1787,8 @@
       "Mistral Medium 2508": 1,
       "Llama 4 Maverick": 1,
       "GPT 4.1": 1,
-      "Command A Reasoning 08 2025": 2
+      "Command A Reasoning 08 2025": 2,
+      "Gemini 2.5 Flash Lite": 1
     },
     "Command A Reasoning 08 2025": {
       "Ernie 4.5 Turbo 128k Preview": 1,
@@ -1882,7 +1883,8 @@
       "DeepSeek V3": 1,
       "Gemini 2.5 Flash": 1,
       "DeepSeek V3.1 DS": 1,
-      "GPT 4.1": 1
+      "GPT 4.1": 1,
+      "Grok 4": 1
     },
     "DeepSeek V3": {
       "GPT Oss 120B": 3,
