@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-27T08:25:51.901Z",
+  "updatedAt": "2025-08-27T08:29:15.467Z",
   "win_rate_matrix": {
     "Claude 3.7 Sonnet": {
       "Claude Opus 4": 0.5,
@@ -1288,7 +1288,8 @@
       "Ernie 4.5 Turbo 128k Preview": 2,
       "GLM 4.5 Air": 1,
       "Command A Reasoning 08 2025": 1,
-      "DeepSeek R1 0528": 4
+      "DeepSeek R1 0528": 4,
+      "Anon": 1
     },
     "Doubao 1.6 Thinking": {
       "Claude Sonnet 4": 10,
@@ -2060,6 +2061,9 @@
       "Gemini 1.5 Pro": 1,
       "DeepSeek R1 0528": 1,
       "GLM 4.5 Air": 1
+    },
+    "Anon": {
+      "Claude Sonnet 4": 1
     }
   }
 }
