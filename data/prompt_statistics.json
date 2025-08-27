@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-27T07:59:10.528Z",
+  "updatedAt": "2025-08-27T08:00:12.932Z",
   "prompt_statistics": [
     {
       "prompt": "**根据以下要求创作小说**\n**场景: **雨夜，豪宅内，光线昏暗。\n**人物: **千金小姐和她的富豪父亲\n**情节: **富家千金和镇上的花匠的儿子相爱，富豪父亲极力反对，将她软禁在家。雨夜，千金准备偷偷溜出豪宅，和爱人私奔，即将推门离开时，被父亲发现。\n**创作要求: **以对话为主体，创作女儿与父亲的语言交锋，体现双方的立场、诉求、矛盾。台词精炼、充满张力。\n**以这段话做开场: **就在她的手刚刚碰到大门，身后响起了那道熟悉而低沉的声音，“想干什么去？”\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
@@ -193,7 +193,7 @@
     {
       "prompt": "你需要按以下要求写一段独立同人文段：\n**剧情：**《幸运星》中的泉此方和柊镜一同逛漫展\n\n**写作风格指导：**\n-   对白常常省略说话人，角色台词可能独立成段。\n-   模仿日本轻小说作家“暁 なつめ”文风。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "同人",
-      "total_battles": 27,
+      "total_battles": 28,
       "model_battle_counts": {
         "Doubao 1.6": 3,
         "DeepSeek V3.1 DS": 2,
@@ -203,14 +203,14 @@
         "DeepSeek V3.1 Thinking Volcengine": 3,
         "Claude Sonnet 4": 3,
         "Gemini 1.5 Pro": 3,
-        "Gemini 2.5 Flash": 2,
+        "Gemini 2.5 Flash": 3,
         "Qwen3 30B A3B Thinking 2507": 1,
         "GPT 4.1": 3,
         "Grok 3": 3,
         "Kimi K2": 3,
         "Qwen 235B A22B Thinking 2507": 1,
         "Mistral Medium 2508": 2,
-        "Claude 3.7 Sonnet": 5,
+        "Claude 3.7 Sonnet": 6,
         "Ernie 4.5 Turbo 128k Preview": 1,
         "DeepSeek V3": 2,
         "Gemini 2.5 Flash Lite": 1,
@@ -239,7 +239,7 @@
         "Kimi K2": 0.3333333333333333,
         "Qwen 235B A22B Thinking 2507": 0,
         "Mistral Medium 2508": 1,
-        "Claude 3.7 Sonnet": 0.2,
+        "Claude 3.7 Sonnet": 0.3333333333333333,
         "Ernie 4.5 Turbo 128k Preview": 1,
         "DeepSeek V3": 0,
         "Gemini 2.5 Flash Lite": 1,
