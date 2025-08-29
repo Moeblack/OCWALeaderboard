@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2025-08-29T07:59:07.534Z",
-  "nextUpdateTime": "2025-08-29T16:00:00",
+  "updatedAt": "2025-08-29T08:00:32.931Z",
+  "nextUpdateTime": "2025-08-29T17:00:00",
   "leaderboard": [
     {
       "model_name": "Gemini 2.5 Pro Max",
@@ -69,9 +69,9 @@
     {
       "model_name": "Qwen 235B A22B Instruct 2507",
       "tier": "high",
-      "rating": 1648,
+      "rating": 1650,
       "rating_deviation": 26,
-      "volatility": 0.059808535849265425,
+      "volatility": 0.05980830679653347,
       "battles": 184,
       "wins": 94,
       "ties": 11,
@@ -101,9 +101,9 @@
     {
       "model_name": "Kimi K2",
       "tier": "high",
-      "rating": 1637,
+      "rating": 1634,
       "rating_deviation": 29,
-      "volatility": 0.060142031466382695,
+      "volatility": 0.060141794355675904,
       "battles": 152,
       "wins": 74,
       "ties": 8,
