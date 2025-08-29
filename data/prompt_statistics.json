@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-29T18:39:11.967Z",
+  "updatedAt": "2025-08-29T18:42:30.787Z",
   "prompt_statistics": [
     {
       "prompt": "你是一位隐居山林的青年剑客，性格淡泊名利，剑法高超却从不轻易展露。你的平静生活被打破，一位身受重伤的昔日仇敌，带着一个神秘的信物，晕倒在你的竹屋前。\n\n**情节目标：** 在救助仇敌的过程中，发现信物中隐藏的惊天秘密。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
@@ -2754,9 +2754,9 @@
     {
       "prompt": "你是一位在乱世中艰难求生的年轻茶商，性格灵活，善于交际。在一次运送重要茶叶的途中，你遭遇了土匪的劫掠，货物被抢走，你身无分文。\n\n**情节目标：** 在不暴露身份的前提下，通过你的智慧和口才，成功从土匪手中夺回你的货物。\n\n你的输出模板如下所示：\n\n# 标题\n\n正文",
       "prompt_theme": "古风",
-      "total_battles": 23,
+      "total_battles": 24,
       "model_battle_counts": {
-        "Gemini 2.5 Pro": 2,
+        "Gemini 2.5 Pro": 3,
         "Claude 3.7 Sonnet": 5,
         "GPT 4.1": 2,
         "Grok 3": 3,
@@ -2776,10 +2776,11 @@
         "Qwen3 30B A3B Thinking 2507": 1,
         "Gemma 27B": 1,
         "DeepSeek V3": 1,
-        "DeepSeek V3.1 Volcengine": 1
+        "DeepSeek V3.1 Volcengine": 1,
+        "GLM 4.5 Air": 1
       },
       "model_win_rates": {
-        "Gemini 2.5 Pro": 0.5,
+        "Gemini 2.5 Pro": 0.6666666666666666,
         "Claude 3.7 Sonnet": 0.4,
         "GPT 4.1": 0.5,
         "Grok 3": 0.3333333333333333,
@@ -2799,7 +2800,8 @@
         "Qwen3 30B A3B Thinking 2507": 0,
         "Gemma 27B": 1,
         "DeepSeek V3": 0,
-        "DeepSeek V3.1 Volcengine": 0
+        "DeepSeek V3.1 Volcengine": 0,
+        "GLM 4.5 Air": 0
       }
     },
     {
