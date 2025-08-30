@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-30T18:54:29.036Z",
+  "updatedAt": "2025-08-30T18:59:07.468Z",
   "nextUpdateTime": "2025-08-31T03:00:00",
   "leaderboard": [
     {
@@ -152,14 +152,14 @@
       "rating": 1618,
       "rating_deviation": 26,
       "volatility": 0.059853368348801755,
-      "battles": 180,
+      "battles": 181,
       "wins": 87,
-      "ties": 11,
+      "ties": 12,
       "skips": 0,
       "win_rate_percentage": 51.48,
       "rating_realtime": 1616,
       "rating_deviation_realtime": 26,
-      "volatility_realtime": 0.059853101224193204,
+      "volatility_realtime": 0.05984981193419898,
       "rank": 10
     },
     {
@@ -184,14 +184,14 @@
       "rating": 1596,
       "rating_deviation": 26,
       "volatility": 0.0597778309116963,
-      "battles": 185,
+      "battles": 186,
       "wins": 78,
-      "ties": 19,
+      "ties": 20,
       "skips": 5,
       "win_rate_percentage": 48.45,
       "rating_realtime": 1598,
       "rating_deviation_realtime": 26,
-      "volatility_realtime": 0.05977756144427099,
+      "volatility_realtime": 0.05977428454145718,
       "rank": 12
     },
     {
@@ -312,14 +312,14 @@
       "rating": 1546,
       "rating_deviation": 30,
       "volatility": 0.0599050423593297,
-      "battles": 132,
+      "battles": 133,
       "wins": 46,
-      "ties": 13,
+      "ties": 14,
       "skips": 2,
       "win_rate_percentage": 39.32,
       "rating_realtime": 1546,
       "rating_deviation_realtime": 30,
-      "volatility_realtime": 0.0599050423593297,
+      "volatility_realtime": 0.059901781822947295,
       "rank": 20
     },
     {
@@ -360,14 +360,14 @@
       "rating": 1518,
       "rating_deviation": 29,
       "volatility": 0.05982904462416141,
-      "battles": 154,
+      "battles": 155,
       "wins": 59,
-      "ties": 13,
+      "ties": 14,
       "skips": 8,
       "win_rate_percentage": 44.36,
       "rating_realtime": 1518,
-      "rating_deviation_realtime": 29,
-      "volatility_realtime": 0.05982904462416141,
+      "rating_deviation_realtime": 28,
+      "volatility_realtime": 0.05982579696181807,
       "rank": 23
     },
     {
